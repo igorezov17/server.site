@@ -1,0 +1,10 @@
+{
+    "name": "user/simple_site",
+    "authors": [
+        {
+            "name": "super Man",
+            "email": "superm@example.com"
+        }
+    ],
+    "require": {}
+}
